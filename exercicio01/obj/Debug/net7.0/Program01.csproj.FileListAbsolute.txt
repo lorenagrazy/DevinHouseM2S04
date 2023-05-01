@@ -1,0 +1,5 @@
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S04\DevinHouseM2S04\exercicio01\obj\Debug\net7.0\Program01.csproj.AssemblyReference.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S04\DevinHouseM2S04\exercicio01\obj\Debug\net7.0\Program01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S04\DevinHouseM2S04\exercicio01\obj\Debug\net7.0\Program01.AssemblyInfoInputs.cache
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S04\DevinHouseM2S04\exercicio01\obj\Debug\net7.0\Program01.AssemblyInfo.cs
+C:\Users\Lorena Silva\DevinAudaces\M02\M2S04\DevinHouseM2S04\exercicio01\obj\Debug\net7.0\Program01.csproj.CoreCompileInputs.cache
